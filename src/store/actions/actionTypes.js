@@ -1,0 +1,7 @@
+export const FETCH = {
+  ENTITY: {
+    START: 'FETCH_ENTITY_START',
+    SUCCESS: 'FETCH_ENTITY_SUCCESS',
+    ERROR: 'FETCH_ENTITY_ERROR',
+  }
+};
